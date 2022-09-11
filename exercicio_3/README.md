@@ -1,0 +1,6 @@
+## Instructions
+
+```shell
+cd yolo
+wget https://pjreddie.com/media/files/yolov3.weights
+```
